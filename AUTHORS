@@ -1,8 +1,3 @@
-# Below is a list of people and organisations that have contributed to the VIXL
-# project. Entries should be added to the list as:
-#
-#   Name/Organization <email address>
-
-ARM Ltd. <*@arm.com>
-Google Inc. <*@google.com>
-Linaro <*@linaro.org>
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb9ad140b715c6d84611431209d8b28d07eac7dc4d180c6d0855148cab4cba47
+size 242
